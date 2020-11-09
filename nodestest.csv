@@ -1,0 +1,18 @@
+id,Node,Name,Sector
+1,0,Oil,Source
+2,1,Coal,Source
+3,2,Hydro Power,Source
+4,3,Direct Use,Transformation
+5,4,Power Generation,Transformation
+6,5,Hydrogen Production,Transformation
+7,6,Energy Sector Use,Energy Demand
+8,7,Transport,Energy Demand
+9,8,Manufacturing,Energy Demand
+10,9,Building,Energy Demand
+11,10,Others,Energy Demand
+12,11,Roads,Consumption Sector
+13,12,Railway,Consumption Sector
+14,13,Manufactured Goods,Consumption Sector
+15,14,Cooking,Consumption Sector
+16,15,Lighting,Consumption Sector
+17,16,Waterheating,Consumption Sector
